@@ -1,12 +1,19 @@
+body{
+  margin: 0;
+  background-color: lightblue;
+  text-align: center;
+  font-family:'Merriweather', serif;
+}
+
 h1{
   color:red;
+  font-family: 'Sacramento', cursive;
 }
+
 h3{
   color:green;
 }
-body{
-  background-color: lightblue;
-}
+
 hr{
   border-style: none;
   border-top-style: dotted;
@@ -14,6 +21,7 @@ hr{
   border-width: 2px;
   width: 10%;
 }
+
 img{
-  width: 10%
+  width: 10%;
 }
